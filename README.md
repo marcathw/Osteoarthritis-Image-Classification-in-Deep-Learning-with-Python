@@ -4,6 +4,16 @@ This medical imaging project builds a convolutional neural network (CNN) using a
 
 ---
 
+## 🔗 Dataset Access
+
+You can download the osteoarthritis image dataset used in this project from the following link:
+
+📁 **[Download Dataset](https://drive.google.com/file/d/1gx_UNYY6zc6RorZTSAagRQc_yZXfzBoC/view?usp=sharing)**
+
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=cloud-download)]([<your-dataset-link-here>](https://drive.google.com/file/d/1gx_UNYY6zc6RorZTSAagRQc_yZXfzBoC/view?usp=sharing))
+
+---
+
 ## 🔧 Features
 
 - **Exploratory Data Analysis (EDA)**
