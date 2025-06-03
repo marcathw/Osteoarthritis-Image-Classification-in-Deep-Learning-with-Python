@@ -8,9 +8,7 @@ This medical imaging project builds a convolutional neural network (CNN) using a
 
 You can download the osteoarthritis image dataset used in this project from the following link:
 
-📁 **[Download Dataset](https://drive.google.com/file/d/1gx_UNYY6zc6RorZTSAagRQc_yZXfzBoC/view?usp=sharing)**
-
-[![Download Dataset](https://img.shields.io/badge/Download%20Dataset-blue?style=for-the-badge)](https://drive.google.com/file/d/1gx_UNYY6zc6RorZTSAagRQc_yZXfzBoC/view?usp=sharing)
+📁 [![Download Dataset](https://img.shields.io/badge/Download%20Dataset-blue?style=for-the-badge)](https://drive.google.com/file/d/1gx_UNYY6zc6RorZTSAagRQc_yZXfzBoC/view?usp=sharing)
 
 ---
 
